@@ -8,6 +8,7 @@ public class Batch12 {
 		System.out.println("we we are were");
 		System.out.println("we were");
 		System.out.println("hello hello hello");
+		System.out.println("hi hi hi");
 	}
 
 }
